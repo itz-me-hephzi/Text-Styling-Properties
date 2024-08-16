@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Text Styling Properties</title>
+    <style>
+      text1{
+        color: #008080;   
+        font-size: 33px;
+      }
+      h1{
+        text-shadow: 2px 4px 2px aquamarine;
+      }
+      p{  
+        color: darkblue;
+        font-size: 29px;
+        text-decoration: none;
+        text-transform: none;
+      }
+      h2{
+        color: #013220;
+        text-decoration: underline overline;
+        text-transform: upper-case;
+      }
+      div{
+        width: 310px;
+        height: 135px;
+        background-color: lightskyblue;
+        box-shadow: 9px 9px 5px blueviolet;
+        transform: rotate(360deg);
+        font-size: 25px;
+      }
+      h3{
+        color: black;
+        text-decoration: underline;
+        font-size: 30px;
+      }
+    </style>
+</head>
+<body>
+  <h1>THE UNIVERSE</h1>
+  <p>The mysteries of the universe is what makes it so marvelous</p>
+  <text1>If a person was to dig a hole the reaches through the other side of earth and the person where to jump in the hole,the person will be imidately affected by the hot temperature and will die before even going half way of the journey</text1>
+  <h2>The only way to survive this is to wear a heat resistance suit</h2>
+  <h3>Interesting Facts Of The Universe</h3>
+  <div>1. A black hole is created when big stars explode.<br>2. There are more stars in the universe than grains of sand on all the beaches on Earth.<br>3. There is no sound in space because there is no atoms or molecules to carry sound waves.</div>
+</body>
+</html>
